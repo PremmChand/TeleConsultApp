@@ -39,3 +39,5 @@ Mini telemedicine app (Doctor mobile + Kiosk tablet) with:
 ## Popup Screen
 
 ![Popup Screen](assets/images/popup_screen.png)
+
+## Developed by Premm Chand
